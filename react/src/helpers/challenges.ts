@@ -467,4 +467,15 @@ export const challenges = new Map<string, Challenge>([
       tags: [],
     },
   ],
+  [
+    'event-calender',
+    {
+      title: 'Event Calender',
+      link: 'event-calender',
+      difficulty: 'hard',
+      developer: 'AbhilashMadi',
+      tags: [],
+      isNew: true,
+    }
+  ],
 ]);
